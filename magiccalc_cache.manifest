@@ -18,6 +18,7 @@ magiccalc/styles.css
 magiccalc/scripts.js
 magiccalc/unit_rank_style.css
 magiccalc/UnitNameFormatting.js
+magiccalc/MagicCostFunction.js
 
 NETWORK:
 *
