@@ -1,0 +1,23 @@
+CACHE MANIFEST
+
+#version 4
+
+CACHE:
+
+#리소스
+index/res/sldrecipe.png
+index/res/sldmagiccalc.png
+index/res/ncafe.png
+
+#라이브러리
+http://minkigui.kimig.net/kigui.css
+http://minkigui.kimig.net/kigui.js
+
+#일반 스크립트
+index/style.css
+
+NETWORK:
+*
+
+FALLBACK:
+online_only.css offline_only.css
