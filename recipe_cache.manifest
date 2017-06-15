@@ -8,8 +8,6 @@ CACHE:
 recipe/res/icon.png
 
 #라이브러리
-https://fonts.gstatic.com/s/materialicons/v22/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2
-
 https://www.google-analytics.com/analytics.js
 http://minkigui.kimig.net/kigui.css
 http://minkigui.kimig.net/kigui.js
@@ -22,7 +20,6 @@ recipe/unit_rank_style.css
 recipe/UnitNameFormatting.js
 
 #폰트
-font/material_icons.css
 font/MaterialIcons-Regular.woff2
 
 NETWORK:
