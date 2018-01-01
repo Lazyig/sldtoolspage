@@ -1,3 +1,3 @@
 ﻿window.addEventListener('DOMContentLoaded', function() {
-    kigui.layout.header.msg.setEvent('안드로이드 어플도 있습니다. 플레이스토어에 검색!.', 'adfsdsaf', true);
+    kigui.layout.header.msg.setEvent('2018년 보람찬 한 해 되세요!', 'addsaf', true);
 })
