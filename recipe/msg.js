@@ -1,3 +1,3 @@
 ﻿window.addEventListener('DOMContentLoaded', function() {
-    kigui.layout.header.msg.setEvent('2018년 보람찬 한 해 되세요!', 'addsaf', true);
+    kigui.layout.header.msg.setEvent('2018/02/01 아몬 매직코스트 수정', 'new', true);
 })
