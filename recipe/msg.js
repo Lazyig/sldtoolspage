@@ -1,3 +1,3 @@
 ﻿window.addEventListener('DOMContentLoaded', function() {
-    kigui.layout.header.msg.setEvent('2018/02/01 아몬 매직코스트 수정', 'new', true);
-})
+    kigui.layout.header.msg.setEvent('2018/08/04 살모사, 공허분쇄자 추가', 'newa', true);
+});
