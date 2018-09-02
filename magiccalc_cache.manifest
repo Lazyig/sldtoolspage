@@ -9,8 +9,8 @@ magiccalc/res/icon.png
 
 #라이브러리
 https://www.google-analytics.com/analytics.js
-http://minkigui.kimig.net/kigui.css
-http://minkigui.kimig.net/kigui.js
+http://kigui.lazyig.com/kigui.css
+http://kigui.lazyig.com/kigui.js
 
 #일반 스크립트
 magiccalc/kigui_custom.css
