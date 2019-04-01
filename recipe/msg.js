@@ -1,1 +1,1 @@
-window.addEventListener("DOMContentLoaded",function(){kigui.layout.header.msg.setEvent("2019/04/01 살모사 조합법 누락사항 수정","new2312a2",!0)});
+window.addEventListener("DOMContentLoaded",function(){kigui.layout.header.msg.setEvent("2019/04/02 디버프 알람 기능 삭제","new2312a2",!0)});
