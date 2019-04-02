@@ -1,6 +1,6 @@
 CACHE MANIFEST
 
-#version og
+#version load
 
 CACHE:
 
@@ -17,7 +17,6 @@ recipe/kigui_custom.css
 recipe/style.css
 recipe/script.js
 recipe/unit_rank_style.css
-recipe/UnitNameFormatting.js
 
 #폰트
 font/MaterialIcons-Regular.woff2

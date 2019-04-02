@@ -1,1 +1,1 @@
-window.addEventListener("DOMContentLoaded",function(){kigui.layout.header.msg.setEvent("2019/04/02 디버프 알람 기능 삭제","new23",!0)});
+window.addEventListener("DOMContentLoaded",function(){kigui.layout.header.msg.setEvent("2019/04/03 로딩 속도 개선","n",!0)});
