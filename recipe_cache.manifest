@@ -17,6 +17,11 @@ recipe/kigui_custom.css
 recipe/style.css
 recipe/script.js
 recipe/unit_rank_style.css
+<<<<<<< HEAD
+=======
+recipe/UnitNameFormatting.js
+recipe/msg.js
+>>>>>>> dev
 
 #폰트
 font/MaterialIcons-Regular.woff2
@@ -25,5 +30,3 @@ NETWORK:
 *
 
 FALLBACK:
-online_only.css offline_only.css
-recipe/msg.js recipe/offline_msg.js

@@ -24,5 +24,3 @@ NETWORK:
 *
 
 FALLBACK:
-online_only.css offline_only.css
-recipe/msg.js recipe/offline_msg.js
