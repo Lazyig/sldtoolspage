@@ -1,0 +1,29 @@
+CACHE MANIFEST
+
+#version 3
+
+CACHE:
+
+#아이콘류
+/recipe/res/icon.png
+/recipe/res/favicon-154.png
+
+#라이브러리
+https://www.google-analytics.com/analytics.js
+http://kigui.lazyig.com/kigui.css
+http://kigui.lazyig.com/kigui.js
+
+#일반 스크립트
+/recipe/kigui_custom.css
+/recipe/style.css
+/recipe/script.js
+/recipe/unit_rank_style.css
+/recipe/msg.js
+
+#폰트
+/font/MaterialIcons-Regular.woff2
+
+NETWORK:
+*
+
+FALLBACK:

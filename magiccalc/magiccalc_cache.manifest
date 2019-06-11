@@ -1,0 +1,27 @@
+CACHE MANIFEST
+
+#version 4
+
+CACHE:
+
+#아이콘류
+/magiccalc/res/icon.png
+/magiccalc/res/favicon-154.png
+
+#라이브러리
+https://www.google-analytics.com/analytics.js
+http://kigui.lazyig.com/kigui.css
+http://kigui.lazyig.com/kigui.js
+
+#일반 스크립트
+/magiccalc/kigui_custom.css
+/magiccalc/styles.css
+/magiccalc/scripts.js
+/magiccalc/unit_rank_style.css
+/magiccalc/UnitNameFormatting.js
+/magiccalc/MagicCostFunction.js
+
+NETWORK:
+*
+
+FALLBACK:
