@@ -1,1 +1,1 @@
-// window.addEventListener("DOMContentLoaded",function(){kigui.layout.header.msg.setEvent("2019/12/15 ","n1",!0)});
+window.addEventListener("DOMContentLoaded",function(){kigui.layout.header.msg.setEvent("2019/12/18 혼종 종언자의 매직유닛 소모량 표시 안되던 문제 수정","n123",!0)});
