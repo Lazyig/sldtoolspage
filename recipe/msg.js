@@ -1,1 +1,1 @@
-window.addEventListener("DOMContentLoaded",function(){kigui.layout.header.msg.setEvent("2020/02/10 혼종 뫼비우스의 조합법 추가","n1234",!0)});
+window.addEventListener("DOMContentLoaded",function(){kigui.layout.header.msg.setEvent("2022/01/04 초월체 조합법 오류 수정","n12234",!0)});
