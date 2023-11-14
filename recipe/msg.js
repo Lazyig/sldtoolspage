@@ -1,1 +1,1 @@
-window.addEventListener("DOMContentLoaded",function(){kigui.layout.header.msg.setEvent("2023/08/02 아몬의 젤나가 피조물 조합법 추가","10949c8a0ec83da128e9fa6d51ea90",!0)});
+window.addEventListener("DOMContentLoaded",function(){kigui.layout.header.msg.setEvent("2023/11/15 정화자 감시자 추가","011d08d942bcea9ff03805477efc504a",!0)});
