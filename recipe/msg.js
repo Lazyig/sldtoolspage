@@ -1,1 +1,1 @@
-window.addEventListener("DOMContentLoaded",function(){kigui.layout.header.msg.setEvent("2023/11/15 정화자 감시자 추가","011d08d942bcea9ff03805477efc504a",!0)});
+window.addEventListener("DOMContentLoaded",function(){kigui.layout.header.msg.setEvent("2023/11/22 정화자 감시자 조합법 수정","011d08d942bcea9ff03805477efc504a2",!0)});
