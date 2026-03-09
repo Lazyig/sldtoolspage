@@ -1,1 +1,1 @@
-window.addEventListener("DOMContentLoaded",function(){kigui.layout.header.msg.setEvent("2023/12/06 티라노조르 조합법 수정","011d08d942bcea9ff03805477efc504a",!0)});
+window.addEventListener("DOMContentLoaded",function(){kigui.layout.header.msg.setEvent("2025/08/06 하늘군주, 아우구스트그라드의 자랑 조합법 추가","011d08d942bcea9ff03805477fc504a",!0)});
