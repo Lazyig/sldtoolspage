@@ -1,1 +1,0 @@
-window.addEventListener("DOMContentLoaded",function(){kigui.layout.header.msg.setEvent("2025/08/06 하늘군주, 아우구스트그라드의 자랑 조합법 추가","011d08d942bcea9ff03805477fc504a",!0)});
